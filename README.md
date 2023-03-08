@@ -1,4 +1,4 @@
-# Java - Projeto Web Browser
+# JavaFx - Projeto Web Browser
 
 ![33873796_1416380451841678_6104554901772173312_n](https://user-images.githubusercontent.com/92939227/223750829-4f148ff3-ac20-4b02-b2f5-38dcc7f635fe.png)
  Projeto Web Browser desenvolvido em JavaFx que permite analisar uma página web e fazer a sumarização dessa página. 
