@@ -1,0 +1,11 @@
+.root {
+  -fx-padding: 15; 
+  -fx-background-color: cornsilk;
+}
+
+#textField {
+  -fx-background-image:url('./resources/imagem/magnifier.png');
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: left center;
+  -fx-font-size: 20;
+}
