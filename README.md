@@ -29,6 +29,7 @@
 
 ## Requisitos
 - Netbeans(https://netbeans-ide.informer.com/download/)
+- Scene-Builder(https://gluonhq.com/products/scene-builder/)
 ---
 
 ## Como utilizar
