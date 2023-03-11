@@ -21,6 +21,7 @@
 #### Tecnologias e Ferramentas
 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- ![javafx](https://user-images.githubusercontent.com/92939227/224482265-b8641853-74aa-4fa3-aa21-c27481ca599b.png)
 
 [Voltar ao Início](#Universe-Explorer)
 
