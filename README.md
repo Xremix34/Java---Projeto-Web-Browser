@@ -28,14 +28,14 @@
 ---
 
 ## Requisitos
-- Node.js(https://nodejs.org)
+- Netbeans(https://netbeans-ide.informer.com/download/)
 ---
 
 ## Como utilizar
 
 #### Instalação
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
-```git clone git@github.com:Xremix34/Java---Projeto-Web-Browser.git```
+```git clone https://github.com/Xremix34/Java---Projeto-Web-Browser.git```
 - <p>Ir na pasta Universe Explorer -> src e executar o ficheiro iniciar.bat para iniciar o servidor.</p>
 - <p>Inserir na barra de pesquisa do browser o seguinte endereço: localhost:"número da porta dada pelo servidor" ou Endereço IP do computador:"número da porta dada pelo servidor". </p>
 ---
