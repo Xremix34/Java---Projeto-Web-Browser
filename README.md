@@ -23,7 +23,7 @@
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![javafx](https://user-images.githubusercontent.com/92939227/224482373-ebc579c5-c3da-47c0-9a5e-6b931bef9df1.png)
 
-[Voltar ao Início](#Universe-Explorer)
+[Voltar ao Início](#web-browser)
 
 ---
 
@@ -35,7 +35,7 @@
 
 #### Instalação
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
-```git clone https://github.com/Xremix34/Javascript---Projeto-Jogo-Universe-Explore.git```
+```git clone git@github.com:Xremix34/Java---Projeto-Web-Browser.git```
 - <p>Ir na pasta Universe Explorer -> src e executar o ficheiro iniciar.bat para iniciar o servidor.</p>
 - <p>Inserir na barra de pesquisa do browser o seguinte endereço: localhost:"número da porta dada pelo servidor" ou Endereço IP do computador:"número da porta dada pelo servidor". </p>
 ---
@@ -45,4 +45,4 @@
 [<img src="https://avatars.githubusercontent.com/u/92939227?s=96&v=4" width=115> <br> <sub> Elio Borges </sub>](https://github.com/Xremix34)|
 | :---: |
 
-[Voltar ao Início](#Universe-Explorer)
+[Voltar ao Início](#web-browser)
