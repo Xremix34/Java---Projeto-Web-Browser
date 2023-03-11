@@ -37,7 +37,7 @@
 #### Instalação
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
 ```git clone https://github.com/Xremix34/Java---Projeto-Web-Browser.git```
-- <p>Abrir o projeto no netbeans</p>
+- <p>Importar a pasta do projeto no netbeans</p>
 - <p> </p>
 ---
 
