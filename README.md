@@ -16,7 +16,7 @@
 ## Descrição
 
 > Projeto Web Browser desenvolvido com mais um integrante de grupo em JavaFx que permite analisar uma página web e fazer a sumarização dessa página. 
- Permite analisar se o conteúdo do texto é triste ou não consoante o emodgi que vai aparecendo atravéz da análise de sentimentos e fazer a wordcloud das palavras mais relevantes no texto da página web como podemos ver nas imagens abaixo. 
+ Permite analisar se o conteúdo do texto é triste ou não consoante o emodgi que vai aparecendo atravéz da análise de sentimentos. Também permite fazer a wordcloud das palavras mais relevantes no texto da página web como podemos ver nas imagens abaixo. 
 
 #### Tecnologias e Ferramentas
 
@@ -37,8 +37,8 @@
 #### Instalação
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
 ```git clone https://github.com/Xremix34/Java---Projeto-Web-Browser.git```
-- <p>Ir na pasta Universe Explorer -> src e executar o ficheiro iniciar.bat para iniciar o servidor.</p>
-- <p>Inserir na barra de pesquisa do browser o seguinte endereço: localhost:"número da porta dada pelo servidor" ou Endereço IP do computador:"número da porta dada pelo servidor". </p>
+- <p>Abrir o projeto no netbeans</p>
+- <p> </p>
 ---
 
 ## Autores
